@@ -6,6 +6,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZonne: http://localhost:8761/eureka 
-spring:
-  application:
-    name: USER-SERVICE-APPLICATION
+ 
